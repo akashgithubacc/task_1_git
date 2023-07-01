@@ -1,0 +1,9 @@
+.submitButton {
+    /* Your button styles */
+    transition: background-color 1s ease;
+  }
+  
+  .submitButton.success {
+    background-color: green; /* Change to desired success color */
+  }
+  
